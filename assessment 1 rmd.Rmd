@@ -1,0 +1,20 @@
+---
+title: "assessment 1 parts 123"
+author: "muskaan  s4660123"
+date: "13/09/2021"
+output: html_document
+---
+```{r}
+library(rmarkdown)
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown Editing
+
+*R Markdown is a file format for making dynamic documents with R. An R Markdown document is written in markdown (an easy-to-write plain text format) and contains chunks of embedded R code*
+
+### muskaan's page
+image: ![](C:\Users\MUSKAAN\Downloads/mumbai.jpg)
